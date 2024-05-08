@@ -3,7 +3,7 @@
 
 
 
-Software Requirements Specification : "https://docs.google.com/document/d/1PQaRznNfx70Q-1GFHWJZFR2EulzUt_AVpy3Rk_8aB74/edit?usp=sharing"
+Software Requirements Specification : "https://docs.google.com/document/d/1P6rTT1MkGkr_7vGFczHeI--fx8jXijj-aAsjm9CtlFk/edit?usp=sharing"
 
 
 
